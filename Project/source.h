@@ -1,0 +1,1 @@
+int napis(char n);
